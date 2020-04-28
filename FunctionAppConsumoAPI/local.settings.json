@@ -1,8 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=sqlvayfykkiubf2fyw;AccountKey=gU7syVribCNsERi0WYaIqQy1xHUwyNBtid2LBSa3Jl8U4gcmmRwBVi5bNWcHvU5N17fPeRPbtbCfOPVRviiDfA==;EndpointSuffix=core.windows.net",
-    "AzureWebJobsStorageTeste": "UseDevelopmentStorage=true",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
     "UrlAPIContagem": "https://localhost:5001/contador"
   }
